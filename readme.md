@@ -1,6 +1,10 @@
 # Lessiionnn
 ## Работа с Git Bash
 Установи Git, 
+гайд по использованию гита с vsCode
+```bash
+https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code-ru
+```
 комманды в cmd для работы с гитом
 ```bash
 git init
