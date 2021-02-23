@@ -1,14 +1,18 @@
 # Lessiionnn
-## Работа с Git Bush
-Установи Git
+## Работа с Git Bash
+Установи Git, 
+комманды в cmd для работы с гитом
 ```bash
-npm init
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/Hicfok/test.git
+git push -u origin main
+
+rm -rf .git
 ```
-Для сборки проекта под Windows
+Установка MongoDB
 ```bash
-electron-packager . --platform=win32
-```
-Для сборки проекта под MacOs
-```bash
-electron-packager . --platform=darwin
+https://www.mongodb.com/try/download/community
 ```
