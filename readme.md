@@ -1,6 +1,6 @@
-# electron-converter
-## Installation
-Для добавления недостающих библиотек
+# Lessiionnn
+## Работа с Git Bush
+Установи Git
 ```bash
 npm init
 ```
