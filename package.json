@@ -1,0 +1,20 @@
+{
+  "name": "cdsdf",
+  "version": "1.0.0",
+  "description": "Для добавления недостающих библиотек\r ```bash\r npm init\r ```\r Для сборки проекта под Windows\r ```bash\r electron-packager . --platform=win32\r ```\r Для сборки проекта под MacOs\r ```bash\r electron-packager . --platform=darwin\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hicfok/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hicfok/test/issues"
+  },
+  "homepage": "https://github.com/Hicfok/test#readme"
+}
